@@ -10,3 +10,4 @@ export * from './apiFactory';
 export * from './useReviewFactory';
 export * from './useFacetFactory';
 export * from './useContentFactory';
+export * from './useCheckoutShippingFactory';
